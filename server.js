@@ -3,7 +3,7 @@ const cors = require("cors");
 const app = express();
 const PORT = 8080;
 
-const API_KEY = "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";
+const API_KEY = "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";
 
 app.use(express.json());
 app.use(cors());
